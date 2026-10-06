@@ -3,10 +3,10 @@
 <rect width="1280" height="430" rx="22" fill="#0b1020"/><rect x="740" width="540" height="430" fill="url(#r)"/><rect width="1280" height="430" fill="url(#grid)"/>
 <path d="M0 2H1280" stroke="url(#g)" stroke-width="4"/>
 <g fill="none" stroke="url(#g)" opacity=".55"><ellipse cx="1050" cy="205" rx="142" ry="142"/><ellipse cx="1050" cy="205" rx="142" ry="55" transform="rotate(35 1050 205)"/><ellipse cx="1050" cy="205" rx="142" ry="55" transform="rotate(-35 1050 205)"/><path d="M909 205h282M1050 63v284"/></g>
-<g fill="#67e8f9"><circle cx="1050" cy="205" r="12"/><circle cx="929" cy="130" r="6"/><circle cx="1170" cy="280" r="6"/><circle cx="1099" cy="72" r="5"/></g>
-<g font-family="Arial,Helvetica,sans-serif"><text x="66" y="67" fill="#67e8f9" font-size="15" letter-spacing="4">RIFAT-BINREZA / BUILD • EXPERIMENT • EXPLAIN</text>
+<g fill="#67e8f9"><circle cx="1050" cy="205" r="12"><animate attributeName="opacity" values="1;.4;1" dur="3s" repeatCount="indefinite"/></circle><circle cx="929" cy="130" r="6"/><circle cx="1170" cy="280" r="6"/><circle cx="1099" cy="72" r="5"/></g>
+<g font-family="Arial,Helvetica,sans-serif"><text x="66" y="67" fill="#67e8f9" font-size="15" letter-spacing="4">RIFAT-BINREZA / RESEARCH • SIGNALS • SYSTEMS</text>
 <text x="62" y="158" fill="#f1f5ff" font-size="66" font-weight="800">RIFAT BIN REZA</text>
-<text x="66" y="215" fill="url(#g)" font-size="30" font-weight="600">Turning signals into intelligent experiences.</text>
-<text x="66" y="262" fill="#b7c3da" font-size="20">Machine learning. Language. Human-centered systems.</text>
-<g font-size="13" letter-spacing="2"><rect x="66" y="321" width="173" height="37" rx="18" fill="#153044"/><text x="85" y="345" fill="#67e8f9">HEALTH + ML</text><rect x="251" y="321" width="173" height="37" rx="18" fill="#292143"/><text x="274" y="345" fill="#c4b5fd">NLP RESEARCH</text><rect x="436" y="321" width="190" height="37" rx="18" fill="#153044"/><text x="457" y="345" fill="#67e8f9">ASSISTIVE IoT</text></g>
-<text x="66" y="400" fill="#71819e" font-size="12" letter-spacing="3">FROM EXPERIMENTS TO INTERACTIVE TOOLS</text></g></svg>
+<text x="66" y="215" fill="url(#g)" font-size="28" font-weight="600">Engineering intelligence from real-world signals.</text>
+<text x="66" y="262" fill="#b7c3da" font-size="20">Biomedical AI. Wireless intelligence. Embedded systems.</text>
+<g font-size="13" letter-spacing="2"><rect x="66" y="321" width="173" height="37" rx="18" fill="#153044"/><text x="78" y="345" fill="#67e8f9">BIOMEDICAL AI</text><rect x="251" y="321" width="173" height="37" rx="18" fill="#292143"/><text x="274" y="345" fill="#c4b5fd">WIRELESS ML</text><rect x="436" y="321" width="190" height="37" rx="18" fill="#153044"/><text x="457" y="345" fill="#67e8f9">ASSISTIVE IoT</text></g>
+<text x="66" y="400" fill="#71819e" font-size="12" letter-spacing="3">ELECTRICAL ENGINEER • RESEARCHER • BUILDER</text></g></svg>
