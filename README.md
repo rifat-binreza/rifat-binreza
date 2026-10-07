@@ -43,8 +43,8 @@ I'm an **Electrical and Electronic Engineering graduate from BRAC University**, 
 <tr>
 <td width="50%" valign="top">
 <h3>📡 Multimodal Beam Prediction</h3>
-<p><b>First-author research · Vision + position + temporal learning.</b></p>
-<p>I am the first author of the related submitted manuscript. This project explores camera and positional sensing for beam prediction, including ConvNeXt, cross-attention, LSTM, and tabular-model experiments.</p>
+<p><b> Vision + position + temporal learning.</b></p>
+<p> This project explores camera and positional sensing for beam prediction, including ConvNeXt, cross-attention, LSTM, and tabular-model experiments.</p>
 <p><code>PyTorch</code> <code>Computer Vision</code> <code>Wireless ML</code></p>
 <p><b>Manuscript submitted</b> to IEEE Transactions on Vehicular Technology.</p>
 <a href="https://github.com/rifat-binreza/beam-prediction"><b>Explore my research fork →</b></a><br/>
