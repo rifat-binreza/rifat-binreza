@@ -33,6 +33,12 @@ I'm an **Electrical and Electronic Engineering graduate from BRAC University**, 
 
 ## 🚀 Featured projects
 
+### 🫀 MoWaveQFormer · Smartphone PPG research
+
+**Motion-conditioned filters × quality-gated Transformer.** Research notebook, recorded experiments, baseline comparisons, and reproducibility notes for our smartphone PPG heart-rate estimation work.
+
+[Explore the repository →](https://github.com/rifat-binreza/MoWaveQFormer) · [Read the preprint ↗](https://arxiv.org/abs/2609.16248)
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -82,7 +88,7 @@ I'm an **Electrical and Electronic Engineering graduate from BRAC University**, 
 
 | Work | Status / resource |
 | :--- | :--- |
-| **MoWaveQFormer** — motion-conditioned, quality-gated smartphone PPG heart-rate estimation | [arXiv preprint](https://arxiv.org/abs/2609.16248) |
+| **MoWaveQFormer** — motion-conditioned, quality-gated smartphone PPG heart-rate estimation | [arXiv preprint](https://arxiv.org/abs/2609.16248) · [Code & experiments](https://github.com/rifat-binreza/MoWaveQFormer) |
 | **Multimodal beam prediction** — collaborative vision and position research | Manuscript submitted to **IEEE Transactions on Vehicular Technology** |
 | **BIOSE brain MRI dataset** — BIDS-compliant imaging data and research data coordination | [Mendeley Data](https://doi.org/10.17632/9mcp5pbtbr.2) · Data in Brief manuscript under review |
 | **LiSrI₃ under pressure** — electronic, optical, and mechanical properties | Computational materials research |
