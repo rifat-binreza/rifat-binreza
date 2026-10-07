@@ -80,7 +80,7 @@ I'm an **Electrical and Electronic Engineering graduate from BRAC University**, 
 
 ### Conference work
 
-- **Brain tumor detection with U-Net, Xception, and LoRA-driven synthetic augmentation** — IEEE IICAIET 2025. [Interactive demo](https://huggingface.co/spaces/prottoymmh/mri_detection).
+- **Brain tumor detection with U-Net, Xception, and LoRA-driven synthetic augmentation** — IEEE IICAIET 2025. [NeuroVista MRI · code & research](https://github.com/rifat-binreza/NeuroVista-MRI) · [IEEE paper](https://doi.org/10.1109/IICAIET67254.2025.11264978).
 - **Explainable AI for SNR prediction and adaptive beamforming in mmWave 5G networks** — IEEE ICCIT 2025.
 - **TRP Monitoring on Analog Cable with IoT** — IEEE QPAIN 2025. [Paper](https://ieeexplore.ieee.org/document/11171871).
 
