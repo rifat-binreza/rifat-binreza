@@ -43,8 +43,8 @@ I'm an **Electrical and Electronic Engineering graduate from BRAC University**, 
 <tr>
 <td width="50%" valign="top">
 <h3>📡 Multimodal Beam Prediction</h3>
-<p><b>Vision + position + deep learning.</b></p>
-<p>Collaborative research using camera images and positional features for beam prediction, including CAFormer and tabular-model experiments.</p>
+<p><b>First-author research · Vision + position + temporal learning.</b></p>
+<p>I am the first author of the related submitted manuscript. This project explores camera and positional sensing for beam prediction, including ConvNeXt, cross-attention, LSTM, and tabular-model experiments.</p>
 <p><code>PyTorch</code> <code>Computer Vision</code> <code>Wireless ML</code></p>
 <p><b>Manuscript submitted</b> to IEEE Transactions on Vehicular Technology.</p>
 <a href="https://github.com/rifat-binreza/beam-prediction"><b>Explore my research fork →</b></a><br/>
@@ -89,7 +89,7 @@ I'm an **Electrical and Electronic Engineering graduate from BRAC University**, 
 | Work | Status / resource |
 | :--- | :--- |
 | **MoWaveQFormer** — motion-conditioned, quality-gated smartphone PPG heart-rate estimation | [arXiv preprint](https://arxiv.org/abs/2609.16248) · [Code & experiments](https://github.com/rifat-binreza/MoWaveQFormer) |
-| **Multimodal beam prediction** — collaborative vision and position research | Manuscript submitted to **IEEE Transactions on Vehicular Technology** |
+| **Multimodal beam prediction** — first-author vision and position research | Manuscript submitted to **IEEE Transactions on Vehicular Technology** |
 | **BIOSE brain MRI dataset** — BIDS-compliant imaging data and research data coordination | [Mendeley Data](https://doi.org/10.17632/9mcp5pbtbr.2) · Data in Brief manuscript under review |
 | **LiSrI₃ under pressure** — electronic, optical, and mechanical properties | Computational materials research |
 | **Explainable ensemble learning for depression prediction** | BIM 2025 / Taylor & Francis book-chapter work |
